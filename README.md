@@ -1,0 +1,2 @@
+# python25_pytorch_lstm_tensorflow_poem
+计算机毕业设计Python+大模型知识图谱中华古诗词可视化 古诗词智能问答系统 古诗词数据分析 古诗词情感分析 PyTorch  Tensorflow LSTM 阿里千问大模型精调
